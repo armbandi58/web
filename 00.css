@@ -1,0 +1,61 @@
+#element-one {
+    background-color: red;
+}
+
+#element-two {
+    background-color: aqua;
+}
+
+#element-three {
+    background-color: blue
+}
+
+#element-four {
+    background-color: green;
+}
+
+#element-five {
+    background-color: blueviolet;
+}
+
+#element-six {
+    background-color: rgb(255, 251, 0);
+}
+
+#element-seven {
+    background-color: yellow;
+}
+
+#element-eight {
+    background-color: yellowgreen;
+}
+
+#element-nine {
+    background-color: burlywood;
+}
+
+.text {
+    display: table;
+    margin: auto;
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 100px;
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    width: 400px;
+}
+
+.shape {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin: 10px;
+    border-radius: 3px;
+}
+
+.hide {
+    display: none;
+}
